@@ -5,5 +5,10 @@ This is a simulation dataset of multiple statellites, containing ISAR and Optica
 
 
 
+
 标签文件中包含ISAR图像四个帆板角点及头尾点的像素坐标
+部分数据集示例百度云链接：
+链接：https://pan.baidu.com/s/1bgMSiDGtWbMWXCQiXE6sfg?pwd=1dwx 
+提取码：1dwx 
+
 如有需要完整数据集，请联系邮箱wang_canyu@sina.com
